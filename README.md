@@ -1,4 +1,4 @@
-### Demo: [https://develop-juice.github.io/make-test/](https://develop-juice.github.io/make-test/)
+### Demo: [https://lobanov3000.github.io/make-test/](https://lobanov3000.github.io/make-test/)
 ## Stack:
 
 1. TypeScript
